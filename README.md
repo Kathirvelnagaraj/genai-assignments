@@ -1,1 +1,1 @@
-genai-assignments
+genai-assignment
